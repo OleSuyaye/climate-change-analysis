@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/algozee/climate-cahnge
 
 - [x] Python File Handling
 - [x] Pandas Basics
-- [ ] Data Cleaning
+- [x] Data Cleaning
 - [ ] Exploratory Data Analysis (EDA)
 - [ ] Data Visualization
 - [ ] Statistics
